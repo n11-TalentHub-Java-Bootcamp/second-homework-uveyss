@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c016de52-b08c-4039-ad2f-3938a81a50ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/SecondWorkspaceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/converter/CategoryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/converter/CommentConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/converter/ProductConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/converter/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dao/ProductCommentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dto/CategoryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dto/ProductCommentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dto/ProductDetailDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entity/ProductCommentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entity/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entityService/CategoryEntityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entityService/ProductCommentEntityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entityService/ProductEntityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/entityService/UserEntityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/exceptionHandler/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/exceptionHandler/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/exceptionHandler/ProductCommentNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/exceptionHandler/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/java/com/example/secondworkspace/exceptionHandler/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondWorkspace/src/test/java/com/example/secondworkspace/SecondWorkspaceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22do8Dwvpl6MMR2MEiv0UYcLp6F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondWorkspaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SecondWorkspace" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.secondworkspace.SecondWorkspaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c016de52-b08c-4039-ad2f-3938a81a50ad" name="Default Changelist" comment="" />
+      <created>1640176664770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640176664770</updated>
+      <workItem from="1640176666632" duration="502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
